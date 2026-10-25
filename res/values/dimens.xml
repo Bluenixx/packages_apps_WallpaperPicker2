@@ -98,8 +98,8 @@
     <dimen name="set_wallpaper_dialog_padding">24dp</dimen>
     <dimen name="set_wallpaper_dialog_item_min_height">56dp</dimen>
     <dimen name="set_wallpaper_dialog_item_min_width">300dp</dimen>
-    <dimen name="set_wallpaper_dialog_item_outer_corner_radius">12dp</dimen>
-    <dimen name="set_wallpaper_dialog_item_inner_corner_radius">4dp</dimen>
+    <dimen name="set_wallpaper_dialog_item_outer_corner_radius">20dp</dimen>
+    <dimen name="set_wallpaper_dialog_item_inner_corner_radius">12dp</dimen>
     <dimen name="set_wallpaper_dialog_icon_size">32dp</dimen>
     <dimen name="set_wallpaper_dialog_title_padding">5dp</dimen>
 
@@ -139,7 +139,7 @@
 
     <!-- Dimensions for the "disabled by admin" UI in desktop mode. -->
     <dimen name="disabled_by_admin_desktop_message_text_size">13sp</dimen>
-    <dimen name="preview_bottom_sheet_corner_radius">12dp</dimen>
+    <dimen name="preview_bottom_sheet_corner_radius">28dp</dimen>
 
     <!-- Dimensions for PreviewPager and PageIndicator. -->
     <dimen name="preview_indicator_width">16dp</dimen>
@@ -205,7 +205,7 @@
     <!-- Dimensions for the separated tabs. -->
     <dimen name="separated_tabs_height">56dp</dimen>
     <dimen name="separated_tabs_height_short">32dp</dimen>
-    <dimen name="separated_tabs_corner_radius">12dp</dimen>
+    <dimen name="separated_tabs_corner_radius">18dp</dimen>
     <dimen name="separated_tabs_inset_horizontal">4dp</dimen>
     <!--  Default page horizontal margin (24dp) - separated tabs inset horizontal (4dp) -->
     <dimen name="separated_tabs_horizontal_padding">20dp</dimen>
@@ -238,7 +238,7 @@
     <dimen name="wallpaper_picker_entry_drawable_padding">8dp</dimen>
     <dimen name="wallpaper_picker_entry_horizontal_padding">16dp</dimen>
     <dimen name="wallpaper_picker_entry_margin_vertical">16dp</dimen>
-    <dimen name="wallpaper_picker_entry_card_corner_radius">12dp</dimen>
+    <dimen name="wallpaper_picker_entry_card_corner_radius">24dp</dimen>
     <dimen name="wallpaper_picker_options_section_margin">12dp</dimen>
     <dimen name="wallpaper_preview_buttons_elevation">8dp</dimen>
 
@@ -283,7 +283,7 @@
     <!-- Set wallpaper button -->
     <dimen name="set_wallpaper_button_horizontal_padding">18dp</dimen>
     <dimen name="set_wallpaper_button_vertical_padding">10dp</dimen>
-    <dimen name="set_wallpaper_button_corner_radius">20dp</dimen>
+    <dimen name="set_wallpaper_button_corner_radius">28dp</dimen>
     <dimen name="set_wallpaper_button_margin_end">16dp</dimen>
     <dimen name="set_wallpaper_button_min_height">48dp</dimen>
 
@@ -303,10 +303,10 @@
     <item name="wallpaper_control_icon_viewport_size" format="float" type="dimen">24</item>
 
     <!-- Duo tabs -->
-    <dimen name="duo_tabs_button_corner_radius">12dp</dimen>
+    <dimen name="duo_tabs_button_corner_radius">18dp</dimen>
 
     <!-- Floating Sheet -->
-    <dimen name="floating_sheet_corner_radius">12dp</dimen>
+    <dimen name="floating_sheet_corner_radius">24dp</dimen>
     <dimen name="floating_sheet_corner_radius_large">28dp</dimen>
     <dimen name="floating_sheet_margin">24dp</dimen>
     <dimen name="floating_sheet_bottom_margin">120dp</dimen>
@@ -396,12 +396,12 @@
     <dimen name="set_wallpaper_dialog_handheld_preview_height">260dp</dimen>
     <dimen name="set_wallpaper_dialog_button_margin_vertical">8dp</dimen>
     <dimen name="set_wallpaper_dialog_bottom_padding">16dp</dimen>
-    <dimen name="set_wallpaper_dialog_preview_corner_radius">14dp</dimen>
+    <dimen name="set_wallpaper_dialog_preview_corner_radius">22dp</dimen>
 
     <!-- Dimensions for wallpaper effects dialog -->
     <dimen name="wallpaper_effect_download_button_height">48dp</dimen>
     <dimen name="wallpaper_effect_download_button_width">172dp</dimen>
-    <dimen name="wallpaper_effect_download_button_corner_radius">24dp</dimen>
+    <dimen name="wallpaper_effect_download_button_corner_radius">28dp</dimen>
     <dimen name="wallpaper_effect_download_image_size">20dp</dimen>
     <dimen name="wallpaper_effect_download_text_padding_start">8dp</dimen>
     <dimen name="wallpaper_effect_downloading_progress_size">40dp</dimen>
